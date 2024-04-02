@@ -1,0 +1,5 @@
+
+#Exclude Local and Virtual Environments 
+.env
+venv/
+algo.py
